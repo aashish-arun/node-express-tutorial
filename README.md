@@ -16,3 +16,9 @@
         Youtube Timestamp: 
         Remarks:
     }
+
+    Day-1 {
+        [Start Date: 2025|03|11] [Total Time (hr): XX Hours 55 Minutes] [Finish Date: 2025|03|11]
+        Youtube Timestamp: 19:08
+        Remarks:
+    }
